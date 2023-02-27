@@ -1,0 +1,6 @@
+framework module Pods_PragmaCatsApp_PragmaCatsAppUITests {
+  umbrella header "Pods-PragmaCatsApp-PragmaCatsAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
